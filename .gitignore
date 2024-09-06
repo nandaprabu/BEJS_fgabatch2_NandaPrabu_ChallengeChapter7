@@ -1,0 +1,8 @@
+# Keep environment variables out of version control
+test/.env
+
+# Ignore node_modules in test directory
+test/node_modules/
+
+# Ignore node_modules in client directory
+client/node_modules/
